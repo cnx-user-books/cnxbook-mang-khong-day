@@ -1,0 +1,35 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Diên Diên">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10893</md:content-id>
+    <md:title>Mạng không dây</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>c45fc166-1835-4a74-80d3-44faacbff715</md:uuid>
+<md:slug>mang-khong-day</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Các chuân mạng không dây  </md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>802.11a  </md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Tiêu chuẩn của IEEE 802.11  </md:title>
+              <col:content>
+                <col:subcollection>
+                  <md:title>(Untitled)</md:title>
+                  <col:content>                  </col:content>
+                </col:subcollection>
+              </col:content>
+            </col:subcollection>
+            <col:subcollection>
+              <md:title>(Untitled)</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
